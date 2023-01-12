@@ -46,7 +46,7 @@ ${NAME_BONUS}: ${OBJS_BONUS}
 libft:
 	make -C libft
 
-mlx_mac:
+mlx_linux:
 	make -C mlx_linux
 
 clean:
