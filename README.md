@@ -7,7 +7,7 @@ Dans ce jeu nous controllons un personnage qui va devoir collecter tous les obje
 
 ### 🗺️Carte
 Le programme lit un fichier, la carte du jeu, qui lui sera passé en paramètre.  
-Vous pouvez créer n'importe quel carte mais elle doit respecter certaines règles :
+Vous pouvez créer n'importe quelle carte mais elle doit respecter certaines règles :
  * L'extension du fichier doit être `.ber`
  * Il doit etre rectangulaire et toutes les bords de la carte doivent être de type 1
  * Il ne peut avoir que 1 personnage, au moins 1 sortie et au moins 1 objet collectable.
