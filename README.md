@@ -32,7 +32,7 @@ Vous pouvez créer n'importe quel carte mais elle doit respecter certaines règl
 * Nombre de mouvement affiché sur l'écran
 
 
-![alt-text](https://github.com/Ismerie/42_so_long/blob/main/gif/preview.gif)
+![alt-text](https://github.com/Ismerie/so_long/blob/master/gif/preview.gif)
 
 ## 🛠️ Usage
 Avant d'exécuter le projet, vous devez configurer votre MinilibX (c'est notre bibliothèque graphique). Vous trouverez ici tout ce dont vous avez besoin pour faire fonctionner la bibliothèque selon votre OS <https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#installation>.
